@@ -1,0 +1,5 @@
+name: PrismaScreenShare
+main: com.br.gabrielsilva.prismamc.screenshare.ScreenShare
+author: BiielBr
+version: 0.0.1
+softdepend: [PrismaCommons]
